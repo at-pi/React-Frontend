@@ -20,7 +20,7 @@
       styling of the elements is done in simple css
       
 ##Todolist.js
-      made the basic form for value input from the user
+      ###made the basic form for value input from the user
       <form onSubmit={this.addItem}>
                         <input id="input1" ref={(a) => this._inputElement =a}
                                                     placeholder="enter subject">
