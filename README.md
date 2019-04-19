@@ -20,7 +20,7 @@
       styling of the elements is done in simple css
       
 ##Todolist.js
-      ###made the basic form for value input from the user
+      ###Define the basic user input form
       <form onSubmit={this.addItem}>
                         <input id="input1" ref={(a) => this._inputElement =a}
                                                     placeholder="enter subject">
@@ -89,8 +89,8 @@
                 
  ##TODO:
   
-  > add moving card functionality
-  > complete edit card functionality
+  1. add moving card functionality
+  2. complete edit card functionality
              
               
               
